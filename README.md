@@ -22,7 +22,7 @@ The backend is powered by **Django REST Framework**, and the frontend is built u
 ## 🖼️ **Screenshots**
 
 ### ⭐ Dashboard – All Tasks  
-![Dashboard](https://github.com/Ayushkumarsingh09/ProTasker/assets/89827931/c6e22a32-2097-4f0a-8067-9a09b5fb09ff)
+![Dashboard](https://raw.githubusercontent.com/Ayushkumarsingh09/ProTasker/assets/89827931/c6e22a32-2097-4f0a-8067-9a09b5fb09ff)
 
 
 ### ➕ Add Task  
