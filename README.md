@@ -73,5 +73,5 @@ The backend is powered by **Django REST Framework**, and the frontend is built u
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/protasker.git
+git clone https://github.com/Ayushkumarsingh09/ProTasker.git
 cd protasker
